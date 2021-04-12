@@ -76,6 +76,9 @@ $(document).ready(function () {
   });
 
 });
+
+
+
 function querySearchTerm(){ 
 		localStorage.clear(); //Clears storage for next request
 		// get data from html value,

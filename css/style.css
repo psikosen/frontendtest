@@ -110,7 +110,6 @@ section {
 .typeOfSearchText{ 
   color: #F8F8F8;
 }
- 
 
 .searchBtnSelected{  
   border-radius: 3px 3px 3px 3px !important;
@@ -142,14 +141,7 @@ display: block;
 width: 0;
 z-index: 1;
 }
- 
-
-
-
-
-
-
-
+  
 .typeOfSearchSelectionRow { 
   list-style-type: none; 
   margin:15px;
@@ -217,7 +209,7 @@ z-index: 1;
 	 .input-group.error .error-msg  {
         display: block;
 		position: absolute;
-		bottom: 50px;
+		bottom: 30px;
 		margin: 0px;
 		padding: 4px 12px;
 		background: #DC0015;
